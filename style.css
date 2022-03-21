@@ -21,9 +21,23 @@ label {
     margin: 0;
 }
 
-.odin-brand {
+.brand {
+    top: 17%;
+    width: 100%;
     font-size: 8rem;
     font-family: Odin;
     color: white;
     background-color: rgba(0, 0, 0, 0.8);
+}
+
+.odin-logo {
+    height: 140px;
+}
+
+p {
+    font-size: 1.4rem;
+}
+
+.bg-img {
+    object-fit: cover;
 }
