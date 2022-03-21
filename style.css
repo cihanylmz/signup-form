@@ -41,3 +41,8 @@ p {
 .bg-img {
     object-fit: cover;
 }
+
+.leaf {
+    min-height: 100vh;
+    height: 100%;
+}
