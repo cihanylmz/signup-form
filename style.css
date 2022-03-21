@@ -1,0 +1,29 @@
+@font-face { font-family: Odin; src: url('fonts/Norse-Bold.otf'); } 
+body {
+    background-color: #F9FAFB;
+    font-family: "Roboto";
+}
+
+button {
+    background-color: #596D48 !important;
+}
+
+a {
+    color: #596D48;
+    font-weight: bold;
+}
+
+.content {
+    margin-top: 12%;
+}
+
+label {
+    margin: 0;
+}
+
+.odin-brand {
+    font-size: 8rem;
+    font-family: Odin;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.8);
+}
